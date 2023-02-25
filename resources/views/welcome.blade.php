@@ -116,9 +116,6 @@
     </div>
 </div>
 <!-- Banner End -->
-
-
-
 <section class="from-blog spad" id="about">
     <div class="container">
         <div class="row">
