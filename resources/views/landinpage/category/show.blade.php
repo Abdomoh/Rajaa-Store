@@ -2,9 +2,6 @@
 <title> - {{$cats->name}} </title>
 @section('content')
 
-
-
-
 <!-- Breadcrumb Section Begin -->
 <section class="breadcrumb-section set-bg" data-setbg="../web-site/img/hero/s3.jpg">
     <div class="container">
