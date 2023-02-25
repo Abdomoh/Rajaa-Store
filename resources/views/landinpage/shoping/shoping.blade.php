@@ -69,7 +69,7 @@
                         <h6><a href="#">{{$product->name}}</a></h6>
                         <h5>$30.00</h5>
                         <div class="">
-                        <a href="https://api.whatsapp.com/send?phone=0999199699&amp;text= اطلب هذا المنتج : {{$product->name}} "> <button type="button" class="btn block" style="
+                        <a href="https://api.whatsapp.com/send?phone=249125993977&amp;text= اطلب هذا المنتج : {{$product->name}} "> <button type="button" class="btn block" style="
                       background: #9d8b66;
                       border: #9d8b66;
                       color: #fff;

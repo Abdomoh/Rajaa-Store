@@ -85,7 +85,7 @@
             <a href="https://web.facebook.com/American44shop"><i class="fa fa-facebook"></i></a>
             <a href="#"><i class="fa fa-twitter"></i></a>
             <a href="#"><i class="fa fa-linkedin"></i></a>
-            <a href="https://api.whatsapp.com/send?phone=0125993977&amp;textمرحبا بك في المتجر :)"><i class="fa fa-whatsapp"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=249125993977&amp;textمرحبا بك في المتجر :)"><i class="fa fa-whatsapp"></i></a>
         </div>
         <div class="humberger__menu__contact">
             <ul>
@@ -115,7 +115,7 @@
                                 <a href="https://web.facebook.com/American44shop"><i class="fa fa-facebook"></i></a>
                                 <a href="#"><i class="fa fa-twitter"></i></a>
                                 <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="https://api.whatsapp.com/send?phone=0125993977&amp;textمرحبا بك في المتجر :)"><i class="fa fa-whatsapp"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=249125993977&amp;textمرحبا بك في المتجر :)"><i class="fa fa-whatsapp"></i></a>
                             </div>
                             <div class="header__top__right__language">
                                 <img src="img/language.png" alt="" />
@@ -164,7 +164,7 @@
     <!-- Hero Section End -->
     @yield('content')
     <div class="whatsapp-icon">
-        <a href="https://api.whatsapp.com/send?phone=0125993977&amp;textمرحبا بك في المتجر :)"><img src=web-site/img/watsapp.jpg style="bottom: 80px;
+        <a href="https://api.whatsapp.com/send?phone=249125993977&amp;textمرحبا بك في المتجر :)"><img src=web-site/img/watsapp.jpg style="bottom: 80px;
         right: 10px;
      position: fixed;
      color: green;
@@ -219,7 +219,7 @@
                             <a href="https://web.facebook.com/American44shop"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-instagram"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="https://api.whatsapp.com/send?phone=0125993977&amp;textمرحبا بك في المتجر :)"><i class="fa fa-whatsapp"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=249125993977&amp;textمرحبا بك في المتجر :)"><i class="fa fa-whatsapp"></i></a>
                         </div>
                     </div>
                 </div>
