@@ -90,7 +90,7 @@
         <div class="humberger__menu__contact">
             <ul>
                 <li><i class="fa fa-envelope"></i> engrago26cosmetic@gmail.com</li>
-                <li>رفاهية لاتسوق اريحية الاسعار</li>
+                <li>رفاهية التسوق اريحية الاسعار</li>
             </ul>
         </div>
     </div>

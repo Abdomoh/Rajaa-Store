@@ -172,14 +172,12 @@
                             </div>
                             @endforeach
 
-
                         </tbody>
                     </table>
 
                 </div>
             </div>
         </div>
-
         <!-- add -->
         <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog" role="document">
@@ -199,9 +197,6 @@
                                 <input type="text" name="name" value="" class="form-control" value="{{old('name')}}" />
 
                             </div>
-
-
-
                             <div class="form-group">
                                 <label for="exampleFormControlTextarea1">صورة</label>
                                 <input type="file" name="image" value="" class="form-control" />
