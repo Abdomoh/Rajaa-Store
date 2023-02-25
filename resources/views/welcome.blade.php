@@ -22,7 +22,7 @@
                         <span style="background: #fff;">رجو كولكشن</span>
                         <h2 style="color: #fff;">توصيل اسرع <br />وجهتك للتسوق من المنزل</h2>
                         <p style="color: #fff;">لأننا نعتني بجودة الحياة .. نضع بين يديك في رجاء مجموعة من الابتكارات التي تسهّل عليك الحياة اليومية بجودة أكبر ومال أقلّ!</p>
-                        <a href="#" class="primary-btn">اتسوق الان</a>
+                        <a href="{{url('shopping')}}" class="primary-btn">اتسوق الان</a>
                     </div>
                 </div>
             </div>
@@ -75,7 +75,7 @@
                     <div class="featured__item__text">
                         <h6><a href="../products/{{$product->id}}">{{$product->name}}</a></h6>
                         
-                        <h5>$30.00</h5>
+                        <h5>{{number_format($product->price,2)}}</h5>
                         <div class="">
                         <a href="https://api.whatsapp.com/send?phone=249125993977&amp;text= اطلب هذا المنتج : {{$product->name}} "> <button type="button" class="btn block" style="
                       background: #9d8b66;
